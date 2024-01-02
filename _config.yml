@@ -19,7 +19,7 @@ plugins:
     - jekyll-seo-tag
     - jekyll-redirect-from
 authors:
-    sal:
+    sean:
       name:           Sean
       site:           https://pturl.github.io/lib/index.html
       avatar:         /assets/images/avatar1.jpg

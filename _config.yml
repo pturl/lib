@@ -1,6 +1,6 @@
 # Site
-name: 'Mundana'
-description: 'Mundana is a free Jekyll theme for awesome people like you, Medium like.'
+name: 'PT-Url'
+description: 'our Gateway to Diverse Perspectives on News and Events'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 url: "https://pturl.github.io" # the base hostname & protocol for your site, e.g. https://example.com
@@ -20,16 +20,16 @@ plugins:
     - jekyll-redirect-from
 authors:
     sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+      name:           Sean
+      site:           https://pturl.github.io/lib/index.html
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+      bio:            "Hi, I am Sean, the Blog Editor of PT-Url, the the site you're currently previewing. I hope you like it!"
       email:          wowthemesnet@gmail.com
       twitter:        https://twitter.com/wowthemesnet
 
     jane:
       name:           Jane
-      site:           https://www.wowthemes.net
+      site:           https://pturl.github.io/lib/index.html
       avatar:         /assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com

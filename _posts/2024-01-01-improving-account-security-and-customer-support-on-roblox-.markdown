@@ -6,7 +6,7 @@ categories: Gaming
 excerpt_image: https://i.ytimg.com/vi/Vc0GOcFT83g/maxresdefault.jpg
 image: https://i.ytimg.com/vi/Vc0GOcFT83g/maxresdefault.jpg
 tags: [featured]
-
+author: jane
 ---
 
 ## Roblox Account Hacking and Banning Overly Harsh

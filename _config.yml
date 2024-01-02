@@ -10,7 +10,7 @@ email: 'wowthemesnet@gmail.com'
 
 include: ["_pages"]
 #permalink: /:title/
-
+permalink: /:name/
 # Plugins
 plugins:
     - jekyll-feed

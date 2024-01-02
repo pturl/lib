@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "**A Comprehensive Review of Puravive - Is This Groundbreaking Weight Loss Supplement Legitimate?**"
+title: "A Comprehensive Review of Puravive - Is This Groundbreaking Weight Loss Supplement Legitimate?"
 date:   2024-01-02 04:26:24 +0000
 categories: Gaming
 excerpt_image: https://www.cccnmc.org/wp-content/uploads/2021/01/image-768x768.jpg

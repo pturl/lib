@@ -13,11 +13,11 @@ permalink: /:title/
 
 # Plugins
 plugins:
-  - jekyll-feed
-  - jekyll-sitemap
-  - jekyll-paginate
-  - jekyll-seo-tag
-
+    - jekyll-feed
+    - jekyll-sitemap
+    - jekyll-paginate
+    - jekyll-seo-tag
+    - jekyll-redirect-from
 authors:
     sal:
       name:           Sal

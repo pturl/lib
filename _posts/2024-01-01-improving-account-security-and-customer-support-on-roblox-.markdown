@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Improving Account Security and Customer Support on **Roblox**"
+title: "Improving Account Security and Customer Support on Roblox"
 date:   2024-01-01 19:29:26 +0000
 categories: Gaming
 excerpt_image: https://i.ytimg.com/vi/Vc0GOcFT83g/maxresdefault.jpg
@@ -39,7 +39,7 @@ Activity tracking and two-factor identification must be enhanced and obligatory 
 Well-defined policies on prohibited items could prevent accidental infractions while still addressing harmful actions effectively.
 ### Restore Trust in Platform Security
 Addressing systemic gaps would reassure users their security and rights are top priorities matching the scale of the platform.
-# Conclusion
+## Conclusion
 ## Prioritizing User Wellbeing
 With millions depending on Roblox each day, user account defense should be a higher priority through proactive safety measures. Not thoroughly investigating hacking damages the perception of support being indifferent to valid issues.
 ## Demonstrating Commitment to Users

@@ -1,0 +1,29 @@
+---
+layout: post
+title: "A Look at Sequel Release Timelines for Major Franchises"
+date:   2024-01-01 12:20:29 +0000
+categories: Gaming
+excerpt_image: https://media.comicbook.com/2020/02/star-wars-complete-franchise-timeline-1207590.jpeg?auto=webp&amp;width=1280&amp;height=427&amp;crop=1280:427,smart
+image: https://media.comicbook.com/2020/02/star-wars-complete-franchise-timeline-1207590.jpeg?auto=webp&amp;width=1280&amp;height=427&amp;crop=1280:427,smart
+---
+
+### **Mirror's Edge Catalyst** (8 years after the original **Mirror's Edge**)
+Mirror's Edge was a breakout hit when it released in 2008 for its unique first person parkour gameplay. Fans had been eagerly awaiting a sequel for years. When Mirror's Edge Catalyst was finally announced in 2015 and launched the following year, many praised DICE for expanding upon the original's movement-based mechanics while also fleshing out the game's world and story. However, some felt the open world design didn't flow as well as the linear levels of the original. 
+
+![](https://media.comicbook.com/2020/02/star-wars-complete-franchise-timeline-1207590.jpeg?auto=webp&amp;width=1280&amp;height=427&amp;crop=1280:427,smart)
+### Expanding the **Open World of Red Dead**  
+Red Dead Redemption was a critical and commercial success upon its 2010 release. The game attracted praise for its sprawling western setting and cinematic storytelling. When Red Dead Redemption 2 was unveiled in 2016 and launched two years later, Rockstar had created an even larger and richer open world for players to explore. Despite some technical issues at launch, Red Dead Redemption 2 was celebrated for refining all aspects of the original and pushing the boundaries of interactive storytelling.
+### Reviving a Dormant Franchise with **Kid Icarus Uprising**
+The original Kid Icarus for the Nintendo Entertainment System was released way back in 1986. After laying mostly dormant for decades, the series was resurrected with the 2012 Nintendo 3DS title Kid Icarus Uprising. Bringing its blend of on-rail shooting and adventure gameplay into the third dimension, Uprising was applauded for its humor, detailed graphics, and fun multiplayer offering longtime fans and newcomers an entertaining romp.
+### Continuing a Story Across Platforms with **Kingdom Hearts III**  
+The Kingdom Hearts series exploded in popularity following the 2002 release of Kingdom Hearts on the PlayStation 2. Fans eagerly awaited each new installment, which were spread across handheld and console platforms over more than a decade. When Kingdom Hearts III finally launched for PlayStation 4 and Xbox One in 2019, it incorporated worlds and gameplay mechanics from across the franchise's history to provide a satisfying conclusion to the saga. However, some felt the complex narrative had become hard to follow.
+### The Extensive Development of **Rockstar Open Worlds**   
+Rockstar Games takes an incredibly meticulous and time-intensive approach to crafting their massively detailed open world games. From the placement of individual trees and rocks to programming natural animal behaviors, every element must be meticulously positioned by hand. While this results in living, breathing worlds, it comes at the cost of extended development periods sometimes lasting half a decade or longer between entries in the same franchise.
+### Predicting the Release of **GTA VI**  
+With the incredible success of Red Dead Redemption 2 still fresh, fans have been eagerly anticipating what Rockstar will do next. Given that the studio typically takes around 5-6 years to develop a new game after its last major release and pushes each title to new technical heights, 2023 seems a likely target for Grand Theft Auto VI to debut on next-generation Xbox Series X/PlayStation 5 hardware. This would allow for even further advancements in ai, graphics, and interactive systems within GTA's meticulously built open worlds. 
+### Other Potential 2023 Releases
+A monolithic year for gaming could be in store for 2023 with another long-awaited sequel potentially launching alongside GTA 6. Fans have been patiently hoping for any news on Elder Scrolls VI since its 2015 announcement. With more than seven years passed since Skyrim released in 2011, 2023 may finally provide the next installment in Bethesda's epic fantasy RPG series. This would give both franchises the runway needed to craft truly generational open world experiences. 
+### The Importance of Patience for the GTA Series  
+Grand Theft Auto III launched the franchise into a stratosphere of commercial success in 2001 that Rockstar has continued expanding upon with each new numbered entry. While the lengthy 5-6 year development cycles mean agonizing waits between games, revisiting the early 3D Universe titles today reveals that Rockstar's patience ensures that each new GTA pushes all boundaries of scale, fidelity and emergent gameplay. This approach could see the theoretical GTA X still entertainingly engaging players into the PlayStation 10 generation and beyond.
+### Comparing the Critical Reception of the Original **Red Dead Redemption**   
+Red Dead Redemption was hailed as a cinematic masterpiece upon its 2010 release for its mature western storyline and believable open world. While it attracted widespread acclaim, Red Dead Redemption 2 managed to raise the bar even higher with its improvements across all facets of graphics, systemic gameplay systems, characterization and scope. Whatever quibbles some had with technical issues at launch, most agreed the massive enhancements and emotional character moments made the 8 year wait beyond worth it to experience one of gaming's greatest narratives.

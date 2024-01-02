@@ -3,8 +3,8 @@ layout: post
 title: "Using Games as a Reward for School Performance"
 date:   2024-01-01 23:04:17 +0000
 categories: Gaming
-excerpt_image: https://www.thoughtco.com/thmb/XVENeO9BPr5M_EjZ4NuaxPV-ErE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/71086087-56a563b15f9b58b7d0dca15b.jpg
-image: https://www.thoughtco.com/thmb/XVENeO9BPr5M_EjZ4NuaxPV-ErE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/71086087-56a563b15f9b58b7d0dca15b.jpg
+excerpt_image: https://pbs.twimg.com/media/FHWmnTsXIAUzpWg?format=jpg
+image: https://pbs.twimg.com/media/FHWmnTsXIAUzpWg?format=jpg
 ---
 
 Games have tremendous value as a reward system for school performance when used carefully. **WoW tokens** can be offered as an incentive for students to work hard and achieve their academic goals. For example, my nephew earned **three WoW tokens** for getting mostly C's and a couple A's on his report card, motivating him to put in extra study time. Rather than blaming video games as a distraction, this approach helped redirect his energy into his schoolwork. When used judiciously as a reward after responsibilities are completed, games can encourage better habits.

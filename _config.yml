@@ -9,7 +9,7 @@ disqus: 'demowebsite'
 email: 'wowthemesnet@gmail.com'
 
 include: ["_pages"]
-permalink: /:title/
+#permalink: /:title/
 
 # Plugins
 plugins:

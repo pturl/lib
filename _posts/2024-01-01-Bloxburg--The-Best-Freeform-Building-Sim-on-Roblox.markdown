@@ -8,7 +8,7 @@ image: https://gamertweak.com/wp-content/uploads/2020/07/bloxburg-luxury-modern-
 https://pturl.github.io/lib/Bloxburg-The-Best-Freeform-Building-Sim-on-Roblox/
 redirect_from:
   - /Bloxburg-The-Best-Freeform-Building-Sim-on-Roblox/
-  - /gaming/2024/01/01/Bloxburg-The-Best-Freeform-Building-Sim-on-Roblox.html
+  - /2024-01-01-bloxburg-the-best-freeform-building-sim-on-roblox/
 ---
 
 ###  Endless Creative Possibilities Within a Thriving Community

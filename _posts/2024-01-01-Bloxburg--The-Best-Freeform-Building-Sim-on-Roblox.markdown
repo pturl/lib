@@ -5,7 +5,6 @@ date:   2024-01-01 00:57:09 +0000
 categories: Gaming
 excerpt_image: https://gamertweak.com/wp-content/uploads/2020/07/bloxburg-luxury-modern-house4-1280x720.jpg
 image: https://gamertweak.com/wp-content/uploads/2020/07/bloxburg-luxury-modern-house4-1280x720.jpg
-https://pturl.github.io/lib/Bloxburg-The-Best-Freeform-Building-Sim-on-Roblox/
 redirect_from:
   - /Bloxburg-The-Best-Freeform-Building-Sim-on-Roblox/
   - /2024-01-01-bloxburg-the-best-freeform-building-sim-on-roblox/
